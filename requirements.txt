@@ -1,0 +1,5 @@
+langchain
+google-generativeai
+assemblyai~=0.22.0
+ipython~=8.18.1
+langchain-google-genai
